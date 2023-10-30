@@ -3,13 +3,13 @@
 68C:\Users\SURAJ\Desktop\namaste-react\node_modules\json5\lib\parse.js133426049842376252 0
 90C:\Users\SURAJ\Desktop\namaste-react\node_modules\utility-types\dist\aliases-and-guards.js133426049797811730 0
 79C:\Users\SURAJ\Desktop\namaste-react\node_modules\csso\lib\restructure\index.js133426049971052652 0
-43C:\Users\SURAJ\Desktop\namaste-react\app.js133429327283492908 0
+43C:\Users\SURAJ\Desktop\namaste-react\app.js133431316558685065 0
 81C:\Users\SURAJ\Desktop\namaste-react\node_modules\caniuse-lite\data\regions\PG.js133426050113452720 0
 67C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\utils\src133426049965805649 1
 104C:\Users\SURAJ\Desktop\namaste-react\node_modules\csso\node_modules\css-tree\cjs\syntax\function\var.cjs133426049989402165 0
 87C:\Users\SURAJ\Desktop\namaste-react\node_modules\@swc\helpers\src\_new_arrow_check.mjs133426050065278800 0
 74C:\Users\SURAJ\Desktop\namaste-react\node_modules\semver\ranges\outside.js133426049914754846 0
-49C:\Users\SURAJ\Desktop\namaste-react\package.json133429313718393259 0
+49C:\Users\SURAJ\Desktop\namaste-react\package.json133431320974978988 0
 80C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\compressor-raw\LICENSE133426049794813448 0
 54C:\Users\SURAJ\Desktop\namaste-react\package-lock.json133426078804783734 0
 81C:\Users\SURAJ\Desktop\namaste-react\node_modules\caniuse-lite\data\regions\CR.js133426049989062359 0
@@ -27,7 +27,7 @@
 68C:\Users\SURAJ\Desktop\namaste-react\node_modules\css-tree\cjs\lexer133426049989362178 1
 67C:\Users\SURAJ\Desktop\namaste-react\node_modules\@msgpackr-extract133426078803144634 1
 58C:\Users\SURAJ\Desktop\namaste-react\node_modules\msgpackr133426049945996984 1
-47C:\Users\SURAJ\Desktop\namaste-react\.gitignore133426124407328465 0
+47C:\Users\SURAJ\Desktop\namaste-react\.gitignore133429344626678522 0
 106C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\csso\lib\compress.js133426049875827115 0
 93C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\packager-wasm\lib\wasm-sourcemap.js133426049813682649 0
 69C:\Users\SURAJ\Desktop\namaste-react\node_modules\react-dom\client.js133426049796982203 0
@@ -35,7 +35,7 @@
 72C:\Users\SURAJ\Desktop\namaste-react\node_modules\tslib\modules\index.js133426049812723198 0
 88C:\Users\SURAJ\Desktop\namaste-react\node_modules\csso\node_modules\css-tree\lib\data.js133426050024502085 0
 69C:\Users\SURAJ\Desktop\namaste-react\node_modules\react-dom\server.js133426049976039802 0
-41C:\Users\SURAJ\Desktop\namaste-react\dist133429314849234420 1
+41C:\Users\SURAJ\Desktop\namaste-react\dist133431316625226977 1
 81C:\Users\SURAJ\Desktop\namaste-react\node_modules\lmdb\util\set-optional-deps.cjs133426049975749962 0
 91C:\Users\SURAJ\Desktop\namaste-react\node_modules\svgo\plugins\addAttributesToSVGElement.js133426049844644939 0
 70C:\Users\SURAJ\Desktop\namaste-react\node_modules\escape-string-regexp133426049814172372 1
@@ -48,7 +48,7 @@
 77C:\Users\SURAJ\Desktop\namaste-react\node_modules\@types\prop-types\README.md133426078801495589 0
 64C:\Users\SURAJ\Desktop\namaste-react\node_modules\@swc\helpers\_133426050036835040 1
 117C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\optimizer-htmlnano\node_modules\mdn-data\css\selectors.json133426049883023001 0
-46C:\Users\SURAJ\Desktop\namaste-react\index.css133426044203786938 0
+46C:\Users\SURAJ\Desktop\namaste-react\index.css133431260817185774 0
 77C:\Users\SURAJ\Desktop\namaste-react\node_modules\css-tree\lib\utils\names.js133426050027800203 0
 65C:\Users\SURAJ\Desktop\namaste-react\node_modules\semver\index.js133426049877286282 0
 69C:\Users\SURAJ\Desktop\namaste-react\node_modules\js-tokens\README.md133426049825615827 0
@@ -63,7 +63,7 @@
 55C:\Users\SURAJ\Desktop\namaste-react\node_modules\@lmdb133426078803144634 1
 79C:\Users\SURAJ\Desktop\namaste-react\node_modules\source-map\dist\source-map.js133426049910887065 0
 88C:\Users\SURAJ\Desktop\namaste-react\node_modules\@swc\helpers\esm\_iterable_to_array.js133426050017136300 0
-47C:\Users\SURAJ\Desktop\namaste-react\index.html133429311512834938 0
+47C:\Users\SURAJ\Desktop\namaste-react\index.html133431060194691151 0
 59C:\Users\SURAJ\Desktop\namaste-react\node_modules\callsites133426049821738046 1
 72C:\Users\SURAJ\Desktop\namaste-react\node_modules\term-size\package.json133426049848692627 0
 91C:\Users\SURAJ\Desktop\namaste-react\node_modules\csso\node_modules\css-tree\lib\version.js133426050030388724 0
@@ -2851,7 +2851,7 @@
 71C:\Users\SURAJ\Desktop\namaste-react\node_modules\detect-libc\README.md133426049804598136 0
 97C:\Users\SURAJ\Desktop\namaste-react\node_modules\@swc\helpers\cjs\_object_without_properties.cjs133426049950584360 0
 67C:\Users\SURAJ\Desktop\namaste-react\node_modules\callsites\license133426049815251753 0
-60C:\Users\SURAJ\Desktop\namaste-react\dist\index.9e4c6fd2.css133429314847568198 0
+60C:\Users\SURAJ\Desktop\namaste-react\dist\index.9e4c6fd2.css133431316624577350 0
 68C:\Users\SURAJ\Desktop\namaste-react\node_modules\csstype\index.d.ts133426078802155238 0
 74C:\Users\SURAJ\Desktop\namaste-react\node_modules\css-tree\cjs\version.cjs133426049989951843 0
 70C:\Users\SURAJ\Desktop\namaste-react\node_modules\csstype\package.json133426078801835399 0
@@ -5271,7 +5271,7 @@
 120C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeStyleElement.js133426049947106344 0
 127C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnknownsAndDefaults.js133426049947586073 0
 116C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUnusedNS.js133426049948045811 0
-59C:\Users\SURAJ\Desktop\namaste-react\dist\index.7826abd7.js133429314848814681 0
+59C:\Users\SURAJ\Desktop\namaste-react\dist\index.7826abd7.js133431316624597338 0
 119C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUselessDefs.js133426049948375625 0
 128C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeUselessStrokeAndFill.js133426049948865482 0
 115C:\Users\SURAJ\Desktop\namaste-react\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeViewBox.js133426049949614904 0
@@ -5992,8 +5992,8 @@
 77C:\Users\SURAJ\Desktop\namaste-react\node_modules\.bin\update-browserslist-db133426050120247327 0
 81C:\Users\SURAJ\Desktop\namaste-react\node_modules\.bin\update-browserslist-db.cmd133426050120247327 0
 59C:\Users\SURAJ\Desktop\namaste-react\dist\index.6bd02f5a.js133426052440488947 0
-63C:\Users\SURAJ\Desktop\namaste-react\dist\index.7826abd7.js.map133429314849194450 0
-64C:\Users\SURAJ\Desktop\namaste-react\dist\index.9e4c6fd2.css.map133429314849164477 0
-52C:\Users\SURAJ\Desktop\namaste-react\dist\index.html133429314848414893 0
+63C:\Users\SURAJ\Desktop\namaste-react\dist\index.7826abd7.js.map133431316625207078 0
+64C:\Users\SURAJ\Desktop\namaste-react\dist\index.9e4c6fd2.css.map133431316624657303 0
+52C:\Users\SURAJ\Desktop\namaste-react\dist\index.html133431316624587339 0
 67C:\Users\SURAJ\Desktop\namaste-react\dist\namaste-react.3464ddca.js133426061854943914 0
 71C:\Users\SURAJ\Desktop\namaste-react\dist\namaste-react.3464ddca.js.map133426061855123804 0
